@@ -1,0 +1,3 @@
+# Ignore C++ compiled files
+*.out
+*.o
